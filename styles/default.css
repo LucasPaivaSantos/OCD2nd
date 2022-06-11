@@ -1,5 +1,17 @@
-div {
+body {
   background-color: #282c34;
   color: #f8f9fc;
   display: block;
+}
+
+a {
+  padding-left: 1fr;
+}
+
+a:link {
+  color: #8cb4ff;
+}
+
+a:visited {
+  color: #bea5ff;
 }
